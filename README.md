@@ -4,7 +4,7 @@
 
 ___
 
-This repository is for storage for my application materials to Ada Developers Academy for Cohort 6. 
+This repository is for storage of my application materials to Ada Developers Academy for Cohort 6. 
 
 ___
 
