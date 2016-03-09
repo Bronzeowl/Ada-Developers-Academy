@@ -1,6 +1,6 @@
 #### In which year (1957 or 2007) did storms have a higher monetary impact within the boundaries of the Louisiana Purchase territory?
 
-The year 1957 has a higher monetary impact within the boundaries of the Louisiana Purchase territory.
+The year 2007 has a higher monetary impact within the boundaries of the Louisiana Purchase territory.
 
 #### Explanation
 
@@ -12,4 +12,4 @@ I sorted the data out one section at a time since they all had separate coordina
 
 As I mentioned before, the one caveat to this process includes the fourth section. Instead of using coordinates, I filtered the data by only selecting the state of Louisiana because this section of the territory consisted mainly of the state of Louisiana. When I had sorted out all of the other states, my next step was to sort out all of the counties that were not included in the boundaries of the territory in Louisiana. I looked at a map and saw that the territory boundary did not include land that is East of the Mississippi River in Louisiana. I then looked up a map that outlined all of the counties in Louisiana and any of the counties that were East of the Mississippi River I filtered out of the "cz_name" column. At this point, I repeated the same process for filtering and summing the property column as I did previously for the other sections. This is also how I determined the total amount of damage of crops for the fourth section. This process was applied to both years.
 
-For the year of 1957, the total amount of monetary impact within the boundaries of the Louisiana Purchase was $64,258,990. For the year of 2007, the total amount of monetary impact within the boundaries of the Louisiana Purchase was $2,032,959,350. Although this may suggest that 2007 incurred the largest amount of monetary damage I decided to adjust the values for inflation. This changes the monetary total for 1957 to  $541,778,749.99 versus the monetary total for 2007 to $241,124,101.94. This makes 1957 the year that storms created the greatest monetary impact within the boundaries of the Louisiana Purchase territory.
+For the year of 1957, the total amount of monetary impact within the boundaries of the Louisiana Purchase was $64,258,990. For the year of 2007, the total amount of monetary impact within the boundaries of the Louisiana Purchase was $2,032,959,350. Although this may suggest that 2007 incurred the largest amount of monetary damage I decided to adjust the values for inflation in 2016. This changes the monetary total for 1957 to  $541,778,749.99 versus the monetary total for 2007 to $2,322,928,289.32. This makes 2007 the year that storms created the greatest monetary impact within the boundaries of the Louisiana Purchase territory.
