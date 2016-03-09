@@ -1,3 +1,5 @@
+# Essay Questions
+
 ##### 1.	Why are you interested in programming? What have you done to expose yourself to programming so far? 
 
 I am interested in programming because I can’t see myself doing anything else! Technology infiltrates a majority of people’s lives now and the potential to make an impact is substantial. At work, my Supervisor has dubbed me as the "IT Department" because I am capable of navigating my way through a computer. I like the nickname though because I like being able to help out.  
